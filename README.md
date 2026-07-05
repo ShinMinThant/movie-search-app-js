@@ -38,15 +38,6 @@ A responsive Movie Search application built with **HTML, CSS, and JavaScript** t
 - Error Handling
 - Improving User Experience (UX)
 
-## 🔮 Future Improvements
-
-- ⭐ Save favorite movies
-- 📄 Movie details page
-- 🎭 Filter by movie type (Movie, Series, Episode)
-- 📱 Better responsive design
-- 🌙 Dark Mode
-
-
 ## 📖 API Used
 
 - 🎬 **OMDb API**
